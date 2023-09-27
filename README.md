@@ -1,1 +1,1 @@
-welcome to my ALX repoaitory! I'm set to do hard things
+welcome to my ALX repository! I'm set to do hard things
